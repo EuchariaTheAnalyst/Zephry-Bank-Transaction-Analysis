@@ -20,8 +20,9 @@ An end-to-end Power BI analytics project designed to monitor banking transaction
    - [Data Modelling](#Data-Modelling)
 9. [Data Analysis in Power BI](#Data-Analysis-in-Power-BI)
 10. [Insights from the Analysis](#Insights-from-the-Analysis)
-11. [Business Recommendations](#Business-Recommendations)
-12. [Conclusion](#Conclusion)
+11. [Dashboard Development](#Dashboard-Development)
+12. [Business Recommendations](#Business-Recommendations)
+13. [Conclusion](#Conclusion)
 
 ---
 
