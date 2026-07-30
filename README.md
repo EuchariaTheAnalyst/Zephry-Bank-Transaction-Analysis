@@ -552,6 +552,10 @@ This structure improves usability by allowing stakeholders to quickly access the
 
 Each dashboard combines KPI cards with supporting visualizations to provide both high-level summaries and detailed analytical views.
 
+___
+
+## [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMjZhNzY3NTEtZGI1Ni00MWRkLTkyZmYtYjFhN2NmMDk4MThjIiwidCI6ImQyZTg4Mzg1LWI4OTAtNDA1Mi1iOWUwLWZmMGIzMTBjZmZmYSJ9)
+
 ## Executive Overview
 
 <img width="682" height="383" alt="Image" src="https://github.com/user-attachments/assets/6b1a1aac-9ce1-4b37-9205-6917a3658b50" />
